@@ -1,0 +1,10 @@
+﻿  fileDeleter.cpp
+fileDeleter.cpp(66): warning C4244: 'initializing': conversion from 'uintmax_t' to 'unsigned int', possible loss of data
+fileDeleter.cpp(134): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+fileDeleter.cpp(152): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  stdafx.cpp
+  Generating code
+  All 609 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  fileDeleter.vcxproj -> D:\Users\Ben25\Documents\GitHub\FileDeleter\Visual Studio Project\fileDeleter\x64\Release\fileDeleter.exe
+  fileDeleter.vcxproj -> D:\Users\Ben25\Documents\GitHub\FileDeleter\Visual Studio Project\fileDeleter\x64\Release\fileDeleter.pdb (Full PDB)

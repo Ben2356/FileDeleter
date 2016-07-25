@@ -1,0 +1,6 @@
+﻿  fileDeleter.cpp
+d:\users\ben25\documents\visual studio 2015\projects\filedeleter\filedeleter\filedeleter.cpp(61): warning C4244: 'initializing': conversion from 'uintmax_t' to 'unsigned int', possible loss of data
+d:\users\ben25\documents\visual studio 2015\projects\filedeleter\filedeleter\filedeleter.cpp(130): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\users\ben25\documents\visual studio 2015\projects\filedeleter\filedeleter\filedeleter.cpp(148): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  fileDeleter.vcxproj -> d:\users\ben25\documents\visual studio 2015\Projects\fileDeleter\x64\Debug\fileDeleter.exe
+  fileDeleter.vcxproj -> d:\users\ben25\documents\visual studio 2015\Projects\fileDeleter\x64\Debug\fileDeleter.pdb (Full PDB)
